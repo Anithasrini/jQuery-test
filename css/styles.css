@@ -1,0 +1,26 @@
+body {
+  background-image: url(../images/img5.jpg);
+}
+
+img {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+  }
+  h2 {
+  text-align: center;
+  }
+h1 {
+   text-color: green;
+   }
+#form-group {
+     display: none;
+}
+.form-control {
+  background-color: yellow;
+  margin: 15px;
+  padding: 10px;
+}
+#hidden {
+  display: none;
+}
