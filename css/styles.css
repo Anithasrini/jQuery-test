@@ -1,6 +1,9 @@
 body {
   background-image: url(../images/img5.jpg);
 }
+.form-group {
+  display: none;
+}
 
 img {
    display: block;
@@ -10,17 +13,16 @@ img {
   h2 {
   text-align: center;
   }
-h1 {
-   text-color: green;
-   }
-#form-group {
-     display: none;
-}
+
 .form-control {
   background-color: yellow;
   margin: 15px;
-  padding: 10px;
 }
-#hidden {
+p {
+  margin: 50px;
+  cursor: pointer;
+  color: red;
+}
+#submit {
   display: none;
 }
