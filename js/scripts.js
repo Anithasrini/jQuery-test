@@ -1,21 +1,29 @@
 $(document).ready(function() {
-  $("#blanks form").submit(function(event) {
-    $(".favthings1").append("blah blah");
-    $(".favthings2").append("blah blah");
-    $(".favthings3").append("blah blah");
-    $(".favthings4").append("blah blah");
-    $(".favthings5").append("blah blah");
-
-    $("h2").click(function() {
-      $("#form-group").show();
+  $(".btn-primary").click(function() {
+    $(".form-group").show();
     });
+  $("#blanks form").submit(function(event) {
+    var favthings1Input = $("input#favthings1").val();
+    var favthings2Input = $("input#favthings2").val();
+    var favthings3Input= $("input#favthings3").val();
+    var favthings4Input = $("input#favthings4").val();
+    var favthings5Input = $("input#favthings5").val();
 
-    $("button").click(function() {
-      $("#hidden").slideToggle("slow");
+    $(".favthings1").text("favthings1Input");
+    $(".favthings2").text("favthings2Input");
+    $(".favthings3").text("favthings3Input");
+    $(".favthings4").text("favthings4Input");
+    $(".favthings5").text("favthings5Input");
+
+
+
+      $(".btn").click(function() {
+      $("#submit").show();
       });
 
-
-    event.preventDefault();
+      event.preventDefault();
 
   });
+});
+
 });
