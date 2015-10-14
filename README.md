@@ -6,13 +6,13 @@
 
 # Description
 
-> This web page sets the user to input some of their favorite things.Click a line to see the drop down list to 
+This web page sets the user to input some of their favorite things.Click a line to see the drop down list to 
 input the favorite things and click on submit button to see the image toggle.this is created with HTML, CSS,
 and jQuery.
 
 ## Setup
-> clone this repository.
-> Open a simple server in the top level of the cloned directory.Now the web is ready to view.
+clone this repository.
+Open a simple server in the top level of the cloned directory.Now the web is ready to view.
 
 #Technologies Used
 
@@ -24,7 +24,7 @@ and jQuery.
 
 # Legal
 
-> Copyright (c) 2015 Kyle K Bulloch, John Franti
+Copyright (c) 2015 Anitha Srinivasan
 
 This software is licensed under the MIT license.
 
