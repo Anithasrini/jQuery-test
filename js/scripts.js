@@ -15,15 +15,13 @@ $(document).ready(function() {
     $(".favthings4").text("favthings4Input");
     $(".favthings5").text("favthings5Input");
 
-
-
-      $(".btn").click(function() {
-      $("#submit").show();
-      });
-
       event.preventDefault();
+ 
 
-  });
+      $(".btn-submit").click(function() {
+      $(".form").slideToggle();
+      });
+   });
 });
 
-});
+
