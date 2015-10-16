@@ -11,8 +11,9 @@ input the favorite things and click on submit button to see the image toggle.thi
 and jQuery.
 
 ## Setup
+ Use the below mentioned link in the web browser to view the web-page.
  Link **[http://Anithasrini.github.io/jQuery-test]**
-Open this link in the top level of the directory.Now the web is ready to view.
+
 
 #Technologies Used
 
