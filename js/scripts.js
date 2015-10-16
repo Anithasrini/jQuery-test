@@ -18,7 +18,7 @@ $(".form-group").show();
        event.preventDefault();
 
       $(".btn-submit").click(function() {
-      $(".form").slideToggle();
+      $(".form").show();
       });
 
     });
