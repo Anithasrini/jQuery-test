@@ -9,11 +9,11 @@ $(document).ready(function() {
     var favthings4Input = $("input#favthings4").val();
     var favthings5Input = $("input#favthings5").val();
 
-    $(".favthings1").text("favthings1Input");
-    $(".favthings2").text("favthings2Input");
-    $(".favthings3").text("favthings3Input");
-    $(".favthings4").text("favthings4Input");
-    $(".favthings5").text("favthings5Input");
+    $(".favthings1").text(favthings1Input);
+    $(".favthings2").text(favthings2Input);
+    $(".favthings3").text(favthings3Input);
+    $(".favthings4").text(favthings4Input);
+    $(".favthings5").text(favthings5Input);
 
       event.preventDefault();
  
