@@ -16,13 +16,13 @@ img {
 
 .form-control {
   background-color: yellow;
-  margin: 15px;
+  margin: 5px;
 }
 p {
   margin: 50px;
   cursor: pointer;
   color: red;
 }
-#submit {
+.form {
   display: none;
 }
