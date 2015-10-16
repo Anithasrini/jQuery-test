@@ -11,8 +11,8 @@ input the favorite things and click on submit button to see the image toggle.thi
 and jQuery.
 
 ## Setup
-clone this repository.
-Open a simple server in the top level of the cloned directory.Now the web is ready to view.
+ Link **[http://Anithasrini.github.io/jQuery-test]**
+Open this link in the top level of the directory.Now the web is ready to view.
 
 #Technologies Used
 
